@@ -53,7 +53,7 @@ g++ quiz_adventure.cpp -o quiz_adventure
 3️⃣ **Run the Game**:  
 Start the adventure by executing the program:  
 ```bash  
-./quiz_adventure  
+quiz_adventure  
 ```  
 
 ---
