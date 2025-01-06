@@ -58,7 +58,7 @@ Start the adventure by executing the program:
 
 ---
 
-## 🎉 **Why You’ll Love It**  
+🎉 **Why You’ll Love It**  
 
 - 🧠 **Learn While Playing**: Gain knowledge of C++ basics and practical coding.  
 - 💻 **Real Practice**: Apply concepts like loops, logic, and input/output.  
